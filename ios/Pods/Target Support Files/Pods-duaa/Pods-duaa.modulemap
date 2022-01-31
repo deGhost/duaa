@@ -1,0 +1,6 @@
+module Pods_duaa {
+  umbrella header "Pods-duaa-umbrella.h"
+
+  export *
+  module * { export * }
+}

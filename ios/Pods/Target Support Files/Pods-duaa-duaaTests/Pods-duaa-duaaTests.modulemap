@@ -1,0 +1,6 @@
+module Pods_duaa_duaaTests {
+  umbrella header "Pods-duaa-duaaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
